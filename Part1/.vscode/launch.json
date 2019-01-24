@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "(gdb32)c_launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "targetArchitecture": "x86",
+            "program": "${workspaceFolder}/${fileBasenameNoExtension}.exe",
+            "miDebuggerPath": "D:/programming/C/codeblocks/MinGW/bin/gdb32.exe",
+            "MIMode": "gdb",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceRoot}",
+            "environment": [],
+            "internalConsoleOptions": "openOnFirstSessionStart",
+            "externalConsole": true,
+            "preLaunchTask": "gcc"
+        }
+    ]
+}
