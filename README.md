@@ -3,11 +3,10 @@
 第一部分：AlgorithmGossip
 
 第二部分：
-
+   
+&nbsp; 
+&nbsp;     
 &nbsp;
-&nbsp;
-&nbsp;
-
 VScode中的运行方式：
 
 第一种
