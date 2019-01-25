@@ -3,13 +3,15 @@
 第一部分：AlgorithmGossip
 
 第二部分：
-   
-&nbsp; 
-&nbsp;     
-&nbsp;
-VScode中的运行方式：
 
-第一种
+</br>
+</br>
+</br>  
+TIPS:
+
+# VScode中的运行方式：
+
+## 第一种
 ```g++ hello.cpp -o hello   #hello.cpp是你要编译的文件名，后面的hello是编译生成的二进制exe文件```
 
 回车，此时会在目录中生成一个可执行的exe文件。
@@ -19,7 +21,7 @@ VScode中的运行方式：
 ``` ./hello 或./hello.exe ```
 
 
-第二种
+## 第二种
 Step 1 配置launch.json
 
 ```
