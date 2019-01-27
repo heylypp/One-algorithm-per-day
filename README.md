@@ -2,7 +2,9 @@
 
 第一部分：AlgorithmGossip
 
-第二部分：
+第二部分：C 常用算法程序集
+  
+第三部分：Leetcode
 
 </br>
 </br>
